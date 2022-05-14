@@ -4,6 +4,8 @@
 Solutions to some exercises from the book [Numerical Computing with MATLAB](https://it.mathworks.com/moler/chapters.html) by Cleve Moler. 
 
 ### Homework2
+- `Lyapunov`: Analysis of the deterministic chaos of the double pendulum.
+- `Random`: Statistical study of the regions not reached by a set of random walkers in a delimited 2D area.
 
 
 ### FinalProject - Quantum mechanics on MATLAB
